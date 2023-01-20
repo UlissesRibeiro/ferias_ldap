@@ -1,7 +1,7 @@
-# ferias_ldap
+# Ferias_ldap
 Script para automatizar a desativação/ativação de usuários em ferias no Active Directory, caso não queria desativar a conta, também tem a opção de mover de o.u, ficando a seu critério!
 
-A variável Date , pega a data atual.
+A variável Date , pega a data atual.<br>
 A yesterday , pega a data atual -1 dia no padrão que você achar melhor, optei por dia/mês/ano
 
 Será necessário ter um arquivo .csv ou .txt , onde passei os seguintes campos :
